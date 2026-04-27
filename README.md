@@ -10,4 +10,4 @@
 マウス左クリックでボタンを押す。
 画面端にピースを持っていくといらないピースを消せる。
 
-**[Start Game](build/index.html)**
+**[Start Game](build/Build/index.html)**
